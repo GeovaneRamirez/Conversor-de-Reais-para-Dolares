@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646514526 source:c:\00 - meus programas\programas em c\segundo programa (conversor de moedas) em c\main.c
+	<stdio.h>
+	<stdlib.h>
+
